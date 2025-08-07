@@ -68,3 +68,9 @@ Profitability varies significantly between vendor performance groups, informing 
 
 Contributions
 Contributions and improvements are welcome! Please fork this repository, make your changes, and submit a pull request.
+
+<img width="1165" height="617" alt="image" src="https://github.com/user-attachments/assets/b349fa09-33b3-446d-84d7-de943376f239" />
+
+<img width="1110" height="558" alt="image" src="https://github.com/user-attachments/assets/418f3801-88b9-4ab6-864e-a6994b393790" />
+
+
